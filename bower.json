@@ -1,0 +1,28 @@
+{
+  "name": "three-portals",
+  "authors": [
+    "szenia <s.zadvornykh@gmail.com>"
+  ],
+  "description": "THREE.js portals implementation.",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "https://github.com/zadvorsky/three.portals",
+  "repository": "https://github.com/zadvorsky/three.portals",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "docs",
+    "examples",
+    "src",
+    "tests",
+    "index.html",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*"
+  }
+}
